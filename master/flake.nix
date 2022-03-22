@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-forestdb-master.flake = false;
+  inputs.src-forestdb-master.ref   = "refs/heads/master";
   inputs.src-forestdb-master.owner = "nimscale";
-  inputs.src-forestdb-master.ref   = "master";
   inputs.src-forestdb-master.repo  = "forestdb";
   inputs.src-forestdb-master.type  = "github";
   
