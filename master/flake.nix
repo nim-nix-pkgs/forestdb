@@ -11,7 +11,6 @@
   inputs.src-forestdb-master.ref   = "refs/heads/master";
   inputs.src-forestdb-master.owner = "nimscale";
   inputs.src-forestdb-master.repo  = "forestdb";
-  inputs.src-forestdb-master.dir   = "";
   inputs.src-forestdb-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
