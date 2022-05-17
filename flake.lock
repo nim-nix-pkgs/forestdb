@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652367101,
-        "narHash": "sha256-Mx1XzQlvzFg2KUMBlYu1clN4VrxCNuhS3q10CmwfP7s=",
+        "lastModified": 1652391036,
+        "narHash": "sha256-YMVrpgK+78oNrtwzYpaobQWP1SlU3ulQ8SKOJRMfYcA=",
         "owner": "nim-nix-pkgs",
         "repo": "forestdb",
-        "rev": "fb959eb2f4d182e569e5dda1298949ef066f51ff",
+        "rev": "973dd21108eeb157d2a849ce631039f2c4902d82",
         "type": "github"
       },
       "original": {
